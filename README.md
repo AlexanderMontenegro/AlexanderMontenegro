@@ -7,7 +7,7 @@ Soy un Desarrollador Full Stack apasionado por la tecnología y la innovación. 
 <br/>  
 
 
-## Languages and Tools  
+## Languages & Herramientas  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
@@ -58,10 +58,6 @@ Soy un Desarrollador Full Stack apasionado por la tecnología y la innovación. 
 
 
 ### Destacados  
-<img src="https://github-readme-stats.vercel.app/api?username=AlexanderMontenegro&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td><td valign="top" width="50%">
-
 
 
 ### Countrie  
@@ -71,5 +67,4 @@ Soy un Desarrollador Full Stack apasionado por la tecnología y la innovación. 
 </td></tr></table></details>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
