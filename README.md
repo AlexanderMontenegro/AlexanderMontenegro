@@ -52,3 +52,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexanderMontenegro&locale=es&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexanderMontenegro&theme=github-dark&area=true&hide_border=true&hide_title=true&radius=0" height="150" alt="activity-graph graph" />
 </div>
+
+
+###
+
+<div align="center">
+  <h2>Conéctate conmigo</h2>
+  <a href="https://www.linkedin.com/in/alexander-montenegro/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="36" alt="linkedin logo" />
+  </a>
+  <a href="mailto:alexandermontenegro0691@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="36" alt="gmail logo" />
+  </a>
+  <a href="https://wa.me/+541134252407" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="36" alt="whatsapp logo" />
+  </a>
+</div>
+
+###
+
+
