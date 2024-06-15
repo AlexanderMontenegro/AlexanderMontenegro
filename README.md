@@ -49,11 +49,22 @@
 
 <div align="center">
   <a href="https://github.com/AlexanderMontenegro/PI-Countries.git">
-    <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/img/imagen1.png" width="200" />
+    <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/img/countri.png" width="200" />
   </a>
-  <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/img/imagen2.png" width="200" />
-  <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/img/imagen3.png" width="200" />
-  <!-- Agrega más imágenes según sea necesario -->
+
+  <a href="https://github.com/AlexanderMontenegro/PI-Pokemon.git">
+    <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/img/pokemon.png" width="200" />
+  </a>
+
+  <a href="https://github.com/AlexanderMontenegro/PI-Tienda-ERDE-DyC.git">
+    <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/img/erde.png" width="200" />
+  </a>
+
+  <a href="https://github.com/AlexanderMontenegro/rick_and_morty.git">
+    <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/img/rym.png" width="200" />
+  </a>
+  
+ 
 </div>
 
 ###
