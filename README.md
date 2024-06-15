@@ -45,7 +45,7 @@
 
 
 ###
-### Galería de Imágenes
+### Galería de Proyectos
 
 <div align="center">
   <a href="https://github.com/AlexanderMontenegro/PI-Countries.git">
