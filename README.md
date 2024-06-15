@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hola 👋! Mi nombre es Alexander Montenegro ... <br>Soy un Desarrollador Full Stack apasionado por la tecnología y la innovación. Actualmente, estoy ampliando mis conocimientos en desarrollo web, especializándome en tecnologías modernas para crear soluciones integrales y eficientes.</h2>
+<h1 align="center">Hola 👋! Mi nombre es Alexander Montenegro ... <br>Soy un Desarrollador Full Stack apasionado por la tecnología y la innovación. Actualmente, estoy ampliando mis conocimientos en desarrollo web, especializándome en tecnologías modernas para crear soluciones integrales y eficientes.</h1>
 
 ###
 
@@ -51,7 +51,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-34-881_512.gif"  />
+  <img height="200" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-34-881_512.gif"  />
 </div>
 
 ###
@@ -59,11 +59,10 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderMontenegro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AlexanderMontenegro&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexanderMontenegro&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AlexanderMontenegro&theme=onedark&column=4&row=4&margin-w=1&margin-h=1&no-bg=true" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexanderMontenegro&theme=github-dark&area=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderMontenegro&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=AlexanderMontenegro&locale=es&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexanderMontenegro&locale=es&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexanderMontenegro&theme=github-dark&area=true&hide_border=true&hide_title=true&radius=0" height="" alt="activity-graph graph"  />
 </div>
 
 ###
