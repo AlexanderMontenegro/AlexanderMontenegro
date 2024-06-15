@@ -45,6 +45,14 @@
 
 
 ###
+### Galería de Imágenes
+
+<div align="center">
+  <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/imagen/imagen1.jpg" width="200" />
+  <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/imagen/imagen2.jpg" width="200" />
+  <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/imagen/imagen3.jpg" width="200" />
+  <!-- Agrega más imágenes según sea necesario -->
+</div>
 
 ###
 
