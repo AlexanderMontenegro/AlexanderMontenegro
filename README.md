@@ -13,16 +13,17 @@
 <br clear="both">
 
 <div align="center">
-  <a href="mailto:alexandermontenegro0691@gmail.com" target="_blank">
+  <a href="mailto:alexandermontenegro0691@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="36" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/alexander-montenegro/" target="_blank">
+  <a href="https://www.linkedin.com/in/alexander-montenegro/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="36" alt="linkedin logo"  />
   </a>
-  <a href="https://wa.me/+541134252407" target="_blank">
+  <a href="https://wa.me/+541134252407" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="36" alt="whatsapp logo"  />
   </a>
 </div>
+
 
 
 ###
