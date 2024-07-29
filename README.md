@@ -52,12 +52,8 @@
     <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/img/countri.png" width="200" />
   </a>
 
-  <a href="https://github.com/AlexanderMontenegro/PI-Pokemon.git">
-    <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/img/pokemon.png" width="200" />
-  </a>
-
-  <a href="https://github.com/AlexanderMontenegro/PI-Tienda-ERDE-DyC.git">
-    <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/img/erde.png" width="200" />
+  <a href="https://github.com/AlexanderMontenegro/H-PF18B-CampeonesDelMundo.git">
+    <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/img/campeonesdelmundo.png" width="200" />
   </a>
 
   <a href="https://github.com/AlexanderMontenegro/rick_and_morty.git">
