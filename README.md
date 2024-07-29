@@ -76,6 +76,10 @@
   <a href="https://wa.me/+541134252407" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="36" alt="whatsapp logo" />
   </a>
+
+  <a href="https://portafolio-p9aq.onrender.com/" target="_blank">
+    <img src="/img/icono-de-portafolios-en-línea-si.png" height="36" alt="whatsapp logo" />
+  </a>
 </div>
 
 ###
