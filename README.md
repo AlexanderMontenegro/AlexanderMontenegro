@@ -56,6 +56,11 @@
     <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/img/campeonesdelmundo.png" width="200" height= "100" />
   </a>
 
+<a href="https://github.com/AlexanderMontenegro/Chat-Socket.io.git">
+    <img src="/img/chat1.png" width="200" height= "100" />
+  </a>
+
+
   <a href="https://github.com/AlexanderMontenegro/rick_and_morty.git">
     <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/img/rym.png" width="200" height= "100" />
   </a>
