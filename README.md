@@ -62,7 +62,7 @@
 
 
   <a href="https://github.com/AlexanderMontenegro/ERDE_DyC.git">
-    <img src="../AlexanderMontenegro/img/erde.png" width="200" height= "100" />
+    <img src="/img/erde.png" width="200" height= "100" />
   </a>
   
  
