@@ -65,6 +65,9 @@
     <img src="/img/erde.png" width="200" height= "100" />
   </a>
   
+  <a href="https://github.com/AlexanderMontenegro/Gestion_Turnos.git">
+    <img src="/img/turnosmedicos.png" width="200" height= "100" />
+  </a>
  
 </div>
 
