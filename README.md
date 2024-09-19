@@ -13,6 +13,10 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100" alt="javascript logo" />
   <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="100" alt="react logo" />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100" alt="html5 logo" />
@@ -85,14 +89,4 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" width="100" height="36" alt="whatsapp logo" />
   </a>
 
-  <a href="https://portafolio-p9aq.onrender.com/" target="_blank">
-    <img src="/img/icono-de-portafolios-en-línea-si.png" width="100" height="36" alt="Portafolio" />
-  </a>
-</div>
-
-###
-
-
-###
-
-
+  <a href="https://portafolio-p9aq.onrender.com/" target="_blank">.
