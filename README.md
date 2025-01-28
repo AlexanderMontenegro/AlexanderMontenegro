@@ -29,7 +29,6 @@
 ### 📊 **Estadísticas**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexanderMontenegro&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=es&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=AlexanderMontenegro&locale=es&mode=daily&theme=dark&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexanderMontenegro&locale=es&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
