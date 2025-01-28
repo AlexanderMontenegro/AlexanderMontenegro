@@ -7,21 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100" alt="javascript logo" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="100" alt="react logo" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100" alt="html5 logo" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="100" alt="css3 logo" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="100" alt="git logo" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="100" alt="postgresql logo" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="100" alt="redux logo" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="100" alt="vscode logo" />
+  <img src="https://profile-counter.glitch.me/AlexanderMontenegro/count.svg?" alt="Profile Counter" />
 </div>
 
 ---
@@ -81,15 +67,7 @@
   <a href="https://wa.me/+541134252407" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-
   <a href="https://portafolio-p9aq.onrender.com/" target="_blank">
-    <img src="/img/icono-de-portafolios-en-línea-si.png" width="100" height="36" alt="Portafolio" />
+    <img src="https://img.shields.io/badge/Portafolio-121212?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio" />
   </a>
 </div>
-
-###
-
-
-###
-
-
